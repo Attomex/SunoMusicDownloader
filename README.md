@@ -26,6 +26,7 @@ This Python script allows you to download songs directly from [Suno.com](https:/
 2. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+   playwright install
    ```
 
 ## Usage
